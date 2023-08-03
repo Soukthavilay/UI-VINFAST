@@ -67,10 +67,10 @@
     background: linear-gradient(180deg, #F0FCFD 0%, rgba(240, 252, 253, 0.00) 100%);
 }
 .text-header > h5 {
-    color: var(--blue-brand-color, #1464F4);
+    color: #1464F4;
     text-align: center;
     font-family: Mulish;
-    font-size: 32px;
+    font-size: 30px;
     font-style: normal;
     font-weight: 900;
     line-height: 48px; /* 150% */
@@ -83,7 +83,6 @@ section.vinfast-Evo-service{
     background: linear-gradient(180deg, #E5F9F9 0%, rgba(193, 241, 242, 0.00) 100%), url("Header.png"), lightgray 196.912px -362px / 80.818% 190.891% no-repeat;
     background-position: center center;
     background-repeat: no-repeat;
-    height: 100%;
     background-size: cover;
     align-items: center;
 }
@@ -141,7 +140,7 @@ section.vinfast-Evo-service{
 .item-text .text-header > h5 {
     color: #1F2125;
     text-align: center;
-    font-size: 24px;
+    font-size: 20px;
     font-style: normal;
     margin: 0 0 32px;
 }
@@ -174,11 +173,11 @@ section.vinfast-Evo-service{
 }
 .footer-banner-promotion > .top-banner > img {
     position: absolute;
-    left: 40%;
-    top: 23%;
-    width: 24%;
+    left: 43%;
+    top: 25%;
+    width: 19%;
     z-index: 10;
-    rotate: -27deg;
+    rotate: -36deg;
 }
 .footer-banner-promotion > .top-banner > .ex-service{
     position: absolute;
